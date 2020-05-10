@@ -186,7 +186,7 @@ Ruby's RESTful defaults and the `resources` method. Problem is, we only have one
 of the seven RESTful routes. Thankfully, we can pass in an `only` option,
 selecting which of the seven RESTful routes we care about. In this case, we only
 care about the `show` action.
-
+#
 Remove:
 
 ```ruby
